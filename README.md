@@ -1,7 +1,6 @@
 <h1>Prediction Heart Disease with KNN and The combo GridSearchCV with Pipeline</h1>
 <br>
-<p>A simple project to predict heart disease using a dataset I found on Kaggle. I used simple tuning, KNN, Pipeline, and GridSearchCV.</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+<p>A simple project to predict heart disease using a dataset I found on Kaggle. I used simple tuning, KNN, Pipeline, and GridSearchCV.</p><br>
 <br>
 Check in the below if you want know more about these technology from Scikit-Learn
 <br>
@@ -14,6 +13,7 @@ GridSearchCV = https://scikit-learn.org/stable/modules/grid_search.html
 Based on prediction, train data from that, i got my best score with the model.
 First i just used Pipeline + KNN without GridSearchCV and the result is <b>0.8688524590163934</b>
 and with Pipeline + KNN + GridSearchCV is <b>0.8852459016393442</b>.
+<br>
 <br>
 Score Between from both score doest has more gap.
 <br>
